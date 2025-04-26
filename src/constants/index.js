@@ -36,7 +36,7 @@ export const EXPERIENCES = [
   },
   {
     year: "2022 - 2022",
-    role: "Itern",
+    role: "Intern",
     company: "MYwBUT",
     description: `Internship focused on practical application of programming skills.`,
     technologies: ["Python", "MongoDB", "Data Structure and Algorithms"],
